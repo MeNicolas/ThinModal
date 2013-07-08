@@ -1,4 +1,4 @@
-SimpleModal
+ThinModal
 ===========
 
 A Jquery very simple modal. Usign Ajax.
