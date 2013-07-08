@@ -3,6 +3,6 @@ SimpleModal
 
 A Jquery very simple modal. Usign Ajax.
 Just import Jquery before the plugin and type a link like that :
-<a href="javascript:void(0);" url="link/to/your/modal" onclick="modal(this);">click me</a>.
+<a href="link/to/your/modal" class="modal">click me</a>.
 
 Well done !
